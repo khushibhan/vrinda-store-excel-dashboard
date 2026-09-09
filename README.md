@@ -43,6 +43,3 @@ These filters can be used to view the data based on different selections.
 
 Microsoft Excel
 
-## Project Preview
-
-![Vrinda Store Dashboard](dashboard.png)
